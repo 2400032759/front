@@ -1,0 +1,23 @@
+.content{
+    background-color: aqua;
+    width:100vw;
+    height:100vh;
+}
+
+.header{
+    background-color: blanchedalmond;
+    width:100vw;
+    height:10vh;
+}
+
+.body{
+    background-color: blueviolet;
+    width:100vw;
+    height:85vh;
+}
+
+.footer{
+    background-color: brown;
+    width:100vw;
+    height:8vh;
+}
